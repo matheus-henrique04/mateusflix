@@ -1,0 +1,66 @@
+body {
+    background: rgb(12, 5, 5);
+    color: beige;
+    margin: 0px;
+}
+header{
+border-bottom:solid 2px black;
+padding: 20px;
+font-size: 32px;
+color:rgb(50, 67, 57) 
+}
+iframe{
+    border: solid 3px rgb(68, 95, 132)
+}
+section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 20px;
+}
+img {
+    height: 200px;
+  }
+  section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  section {
+    background: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* código omitido */
+  
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+  }
